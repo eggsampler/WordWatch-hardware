@@ -1,5 +1,5 @@
 Comment,Designator,Footprint,LCSC
 X0511WVS-24AS-LPV01,"J1,J3",X0511WVS-24AS-LPV01,C2925345
 X0511FVS-24AS-LPV01,"J2,J4",X0511FVS-24AS-LPV01,C2925346
-Conn_01x20,J6,PinSocket_1x20_P2.54mm_Vertical,
-Conn_01x20,J5,PinSocket_1x20_P2.54mm_Vertical,
+Conn_01x09,J6,PinHeader_1x09_P2.54mm_Vertical,
+Conn_01x06,J5,PinHeader_1x06_P2.54mm_Vertical,

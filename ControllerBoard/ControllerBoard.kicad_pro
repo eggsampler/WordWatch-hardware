@@ -172,7 +172,8 @@
         }
       ],
       "track_widths": [
-        0.0
+        0.0,
+        0.2
       ],
       "via_dimensions": [
         {
@@ -412,7 +413,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.13,
+        "clearance": 0.125,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -422,8 +423,8 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.2,
-        "via_diameter": 0.4,
+        "track_width": 0.125,
+        "via_diameter": 0.45,
         "via_drill": 0.3,
         "wire_width": 6
       }
@@ -488,10 +489,6 @@
     [
       "a92f7096-d5aa-4395-a5aa-813a5414a3e7",
       "Microcontroller"
-    ],
-    [
-      "b9a8586c-1ac8-4c51-b802-454015eee6c2",
-      "LED Driver"
     ],
     [
       "e8e091b3-fc1a-4284-9a03-e184564b465a",
