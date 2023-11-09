@@ -1,7 +1,7 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 BT1,CR2032,BatteryHolder_Keystone_1060_1x2032,17.5,-24.5,180.0,bottom
-C1,100uF,C_1206_3216Metric,1.75,-19.75,90.0,bottom
-C2,1uF,C_0402_1005Metric,3.5,-19.75,90.0,bottom
+C1,100uF,C_1206_3216Metric,1.65,-19.5,90.0,bottom
+C2,1uF,C_0402_1005Metric,3.5,-19.5,90.0,bottom
 C3,10uF,C_0603_1608Metric,4.5,-33.5,180.0,bottom
 D1,LED_Small,LED_0402_1005Metric,2.5,-3.75,45.0,top
 D2,LED_Small,LED_0402_1005Metric,32.5,-3.75,135.0,top
@@ -120,5 +120,5 @@ D114,LED_Small,LED_0402_1005Metric,30.0,-28.75,45.0,top
 J1,X0511FVS-24AS-LPV01,X0511FVS-24AS-LPV01,4.5,-6.5,0.0,bottom
 J2,X0511FVS-24AS-LPV01,X0511FVS-24AS-LPV01,30.5,-6.5,0.0,bottom
 Q1,AO3401A,SOT-23,4.0,-30.25,0.0,bottom
-R7,2.2k,R_0402_1005Metric,31.0,-13.5,0.0,bottom
+R7,2.2k,R_0402_1005Metric,31.0,-12.5,0.0,bottom
 SW1,SKRTLA,SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010,32.75,-17.5,270.0,bottom
