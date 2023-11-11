@@ -2663,7 +2663,7 @@
     )
 
     (stroke (width 0.15) (type solid)) (fill none) (layer "Edge.Cuts") (tstamp 5dbd681e-bbb0-4c89-9eb9-6f4319116878))
-  (gr_text "WordWatch\nControl Board\nv1.0 Oct-23\n(c) eggsampler" (at 141.85942 85.25) (layer "B.SilkS") (tstamp 03b8cdbc-59fe-489f-876c-76c67ee89365)
+  (gr_text "WordWatch\nControl Board\nv1.0 Nov-23\n(c) eggsampler" (at 141.85942 85.25) (layer "B.SilkS") (tstamp 03b8cdbc-59fe-489f-876c-76c67ee89365)
     (effects (font (size 0.75 0.75) (thickness 0.1)) (justify bottom mirror))
   )
   (gr_text "WordWatch\nControl Board" (at 125.25 85) (layer "F.SilkS") (tstamp 81ca53ac-b1bb-453f-87c8-44ff5b2b4670)
