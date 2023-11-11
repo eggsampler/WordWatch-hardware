@@ -147,7 +147,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c97a0460-82ff-4c33-9793-84d079e58f7d)
     )
-    (fp_text value "Conn_01x09" (at 0 22.65) (layer "F.Fab")
+    (fp_text value "Conn_01x09" (at 0 22.65) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1a95137f-7168-4513-9174-286cee730c22)
     )
@@ -317,7 +317,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4cf6410d-65c8-4b09-b213-e160300a110a)
     )
-    (fp_text value "Conn_01x06" (at 0 15.03) (layer "F.Fab")
+    (fp_text value "Conn_01x06" (at 0 15.03) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e54d49b6-bf23-436e-8711-4bf9c63e157e)
     )
