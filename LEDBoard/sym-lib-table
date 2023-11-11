@@ -1,3 +1,4 @@
 (sym_lib_table
   (version 7)
+  (lib (name "WordWatch")(type "KiCad")(uri "${KIPRJMOD}/../Library/WordWatch.kicad_sym")(options "")(descr ""))
 )

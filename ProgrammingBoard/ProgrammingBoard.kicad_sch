@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "WordWatch - Programming Board")
+    (date "2023-11-11")
+    (rev "1.0")
+  )
+
   (lib_symbols
   )
 

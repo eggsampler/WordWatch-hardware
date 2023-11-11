@@ -471,7 +471,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "${KIPRJMOD}\\..\\Library\\Drawing_Sheet_A4_Minimal.kicad_wks",
     "plot_directory": "plots/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",

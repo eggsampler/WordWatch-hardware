@@ -423,7 +423,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
-        "via_diameter": 0.4,
+        "via_diameter": 0.45,
         "via_drill": 0.3,
         "wire_width": 6
       }
@@ -470,7 +470,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "${KIPRJMOD}\\..\\Library\\Drawing_Sheet_A4_Minimal.kicad_wks",
     "plot_directory": "plots/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
