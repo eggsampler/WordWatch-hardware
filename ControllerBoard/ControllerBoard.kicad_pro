@@ -443,7 +443,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "ControllerBoard.step",
-      "vrml": "ControllerBoard.wrl"
+      "vrml": "plots/ControllerBoard.wrl"
     },
     "page_layout_descr_file": ""
   },
